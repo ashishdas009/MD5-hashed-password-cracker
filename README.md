@@ -1,0 +1,2 @@
+# MD5-hashed-password-cracker
+This code was written as an assignment for the subject CS-6813 Information Security and Privacy at NYU Tandon School of Engineering. In this assignment, we were provided with the hash strings of the passwords of the user accounts on the website eharmony.com, which got leaked in circa 2011. We were supposed to run a script or program which decrypts these provided hash strings into the actual passwords.
